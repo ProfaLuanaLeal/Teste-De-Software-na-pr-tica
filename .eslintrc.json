@@ -1,0 +1,1 @@
+{\n  "rules": {\n    "eqeqeq": "warn",\n    "no-unused-vars": "warn",\n    "semi": ["error", "always"]\n  }\n}
