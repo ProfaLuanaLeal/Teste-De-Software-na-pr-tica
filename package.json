@@ -1,1 +1,10 @@
-{"name": "missao-idx","scripts": {"testar": "eslint index.js","limpar": "eslint index.js --fix"},"devDependencies": {"eslint": "^8.56.0"}}
+{
+  "name": "missao-idx",
+  "scripts": {
+    "testar": "eslint index.js",
+    "limpar": "eslint index.js --fix"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}

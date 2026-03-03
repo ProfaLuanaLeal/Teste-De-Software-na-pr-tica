@@ -1,1 +1,16 @@
-{\n  "rules": {\n    "eqeqeq": "warn",\n    "no-unused-vars": "warn",\n    "semi": ["error", "always"]\n  }\n}
+{
+  "env": {
+    "node": true,
+    "es2021": true
+  },
+  "extends": "eslint:recommended",
+  "parserOptions": {
+    "ecmaVersion": 12,
+    "sourceType": "module"
+  },
+  "rules": {
+    "no-unused-vars": "warn"
+  }
+}
+
+  
